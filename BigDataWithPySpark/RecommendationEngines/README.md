@@ -2,7 +2,7 @@
 ![Recommendation System Overview](images/rs.png)
 
 ## Dataset:
-[MovieLens](https://grouplens.org/datasets/movielens/)
+[MovieLens](https://grouplens.org/datasets/movielens/)  
 Last updated 9/2018
 
 + Integrated three data sources that contain 100,000 ratings of 9,000 movies by 600 users

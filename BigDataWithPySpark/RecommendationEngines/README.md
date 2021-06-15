@@ -1,4 +1,4 @@
 ## Recommendation System Overview:
-![Recommendation System Overview](rs.png)
+![Recommendation System Overview](images/rs.png)
 
 ## Dataset:
